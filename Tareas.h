@@ -1,6 +1,5 @@
 #ifndef TAREAS_H
 #define TAREAS_H
-#include <string.h>
 
 typedef struct Tarea{
     char* categoria;
